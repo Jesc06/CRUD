@@ -1,0 +1,85 @@
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Joshua Ezcares_CRUD.exe.config
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Joshua Ezcares_CRUD.exe
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Joshua Ezcares_CRUD.pdb
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Guna.UI.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\MySql.Data.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Buffers.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Memory.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\ZstdSharp.dll
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\MySql.Data.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Buffers.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Memory.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.csproj.AssemblyReference.cache
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua_Ezcares_CRUD.Form1.resources
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua_Ezcares_CRUD.Properties.Resources.resources
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.csproj.GenerateResource.cache
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua E.884BF26D.Up2Date
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.exe
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.pdb
+C:\Users\CJ Mendoza\source\repos\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.exe.config
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Joshua Ezcares_CRUD.exe.config
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Joshua Ezcares_CRUD.exe
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Joshua Ezcares_CRUD.pdb
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\MySql.Data.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Buffers.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.IO.Pipelines.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Memory.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\ZstdSharp.dll
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\MySql.Data.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Buffers.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.IO.Pipelines.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Memory.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.csproj.AssemblyReference.cache
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.exe.config
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua_Ezcares_CRUD.Form1.resources
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua_Ezcares_CRUD.Properties.Resources.resources
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.csproj.GenerateResource.cache
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua E.884BF26D.Up2Date
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.exe
+C:\Users\escar\Downloads\Joshua Ezcares_CRUD\Joshua Ezcares_CRUD\obj\Debug\Joshua Ezcares_CRUD.pdb
